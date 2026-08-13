@@ -13,17 +13,17 @@
 - ☁️ Prior experience as a Cloud Application Intern at Sri Vensy Technologies
 - 🏗️ Built **FoodieGo** — a full-stack food delivery platform with Spring Boot, Razorpay payments, OTP auth, and a full admin dashboard
 - 📜 Certified by Google, Oracle, IBM, and Microsoft
-- 🌱 Currently exploring Django, DBMS internals, and MongoDB
-- ⚡ 180-Days DSA Challenge in progress
+- 🌱 Currently exploring System Design, DBMS internals, and Backend Development
+- ⚡ Completed 200+ problems on various Coding Platforms
 
 ---
 
 ### 🔗 Socials
 <p align="left">
-<a href="[https://www.linkedin.com/in/prashanth-pothugunta/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[pothuguntaprashanth84@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[https://prashanth-portfolioo.netlify.app/]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/[https://leetcode.com/u/prashanth____/]" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/prashanth-pothugunta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pothuguntaprashanth84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://prashanth-portfolioo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/u/prashanth____/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -103,7 +103,7 @@ https://github-profile-trophy-winning.vercel.app
 ---
 
 ### 🤝 Let's Connect
-I'm open to **Full Stack Java Developer** opportunities. Feel free to reach out via [https://www.linkedin.com/in/prashanth-pothugunta/](#) or [pothuguntaprashanth84@gmail.com](#) — happy to walk through FoodieGo's architecture or talk Spring Boot anytime.
+I'm open to **Full Stack Java Developer** opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/prashanth-pothugunta/) or [email](mailto:pothuguntaprashanth84@gmail.com) — happy to walk through FoodieGo's architecture or talk Spring Boot anytime.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashanth1984-sudo&theme=redical" alt="activity graph"/>
