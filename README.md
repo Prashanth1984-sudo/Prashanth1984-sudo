@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashanth Pothugunta</h1>
-<h3 align="center">Full Stack Java Developer | Java . Spring Boot · Python · Backend Development . DSA</h3>
+<h3 align="center">Full Stack Java Developer | Java | Spring Boot | Python | Backend Development | DSA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prashanth1984-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -74,7 +74,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[FoodieGo](#)** | Full-stack food delivery platform with secure OTP auth, Razorpay payments, coupon logic, and an admin dashboard | Spring Boot, Thymeleaf, Spring Security, MySQL |
+| **[FoodieGo](https://github.com/Prashanth1984-sudo/foodieGo)** | Full-stack food delivery platform with secure OTP auth, Razorpay payments, coupon logic, and an admin dashboard | Spring Boot, Thymeleaf, Spring Security, MySQL |
 | **[EchoNova Voice Assistant](https://github.com/Prashanth1984-sudo/EchoNova-Voice-Assistant)** | Python voice assistant with speech recognition, TTS, web browsing, and music playback | Python |
 | **[Job-Scraper](https://github.com/Prashanth1984-sudo/Job-Scraper)** | Desktop app that scrapes Naukri.com job listings by keyword and location | Python, Selenium |
 
