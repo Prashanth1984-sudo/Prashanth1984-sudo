@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashanth Pothugunta</h1>
-<h3 align="center">Full Stack Java Developer | Spring Boot · Thymeleaf · MERN Enthusiast</h3>
+<h3 align="center">Full Stack Java Developer | Java . Spring Boot · Python · Backend Development . DSA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prashanth1984-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -70,20 +70,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prashanth1984-sudo&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
-<!-- If the trophies image doesn't load (the main instance gets overloaded), swap the domain above for one of these community mirrors:
-https://github-profile-trophy-liard-delta.vercel.app
-https://github-profile-trophy-fork-two.vercel.app
-https://github-profile-trophy-winning.vercel.app
--->
-
----
-
 ### 📌 Featured Projects
 
 | Project | Description | Tech |
@@ -99,7 +85,6 @@ https://github-profile-trophy-winning.vercel.app
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
-
 ---
 
 ### 🤝 Let's Connect
