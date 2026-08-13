@@ -61,7 +61,7 @@
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Prashanth1984-sudo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Prashanth1984-sudo&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Prashanth1984-sudo&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
