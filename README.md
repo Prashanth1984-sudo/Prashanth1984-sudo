@@ -60,12 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth1984-sudo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth1984-sudo&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Prashanth1984-sudo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Prashanth1984-sudo&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth1984-sudo&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashanth1984-sudo&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -75,6 +75,12 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Prashanth1984-sudo&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
+
+<!-- If the trophies image doesn't load (the main instance gets overloaded), swap the domain above for one of these community mirrors:
+https://github-profile-trophy-liard-delta.vercel.app
+https://github-profile-trophy-fork-two.vercel.app
+https://github-profile-trophy-winning.vercel.app
+-->
 
 ---
 
