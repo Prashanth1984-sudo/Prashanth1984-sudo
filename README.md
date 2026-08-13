@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashanth Kumar Pothugunta</h1>
+<h1 align="center">Hi 👋, I'm Prashanth Pothugunta</h1>
 <h3 align="center">Full Stack Java Developer | Spring Boot · Thymeleaf · MERN Enthusiast</h3>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 ### 🔗 Socials
 <p align="left">
-<a href="https://linkedin.com/in/[your-linkedin]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[your-portfolio-link]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/[your-leetcode]" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/prashanth-pothugunta/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:[pothuguntaprashanth84@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://prashanth-portfolioo.netlify.app/]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/[https://leetcode.com/u/prashanth____/]" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -103,7 +103,7 @@ https://github-profile-trophy-winning.vercel.app
 ---
 
 ### 🤝 Let's Connect
-I'm open to **Full Stack Java Developer** opportunities. Feel free to reach out via [LinkedIn](#) or [email](#) — happy to walk through FoodieGo's architecture or talk Spring Boot anytime.
+I'm open to **Full Stack Java Developer** opportunities. Feel free to reach out via [https://www.linkedin.com/in/prashanth-pothugunta/](#) or [pothuguntaprashanth84@gmail.com](#) — happy to walk through FoodieGo's architecture or talk Spring Boot anytime.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashanth1984-sudo&theme=redical" alt="activity graph"/>
